@@ -12,9 +12,9 @@ Ridge Regression is an extension of **Linear Regression** that incorporates **L2
 
 The cost function for Ridge Regression is:
 
-$$
-MSE_{ridge} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{n} b_j^2
-$$
+  $$
+  MSE_{ridge} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{n} b_j^2
+  $$
 
 where:
 
