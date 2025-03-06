@@ -16,6 +16,9 @@ The cost function for Ridge Regression is:
   MSE_{ridge} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{n} b_j^2
   $$
 
+  MSE_ridge = (1/n) * sum((y_i - ŷ_i)^2) + λ * sum(b_j^2)
+
+
 where:
 
 - **yᵢ** is the actual value.
