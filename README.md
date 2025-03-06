@@ -1,6 +1,6 @@
 # **Ridge Regression (L2 Regularization) from Scratch using Gradient Descent**
 
-This project implements **Ridge Regression (L2 Regularization)** using **Gradient Descent**, built purely in Python **without any external libraries like NumPy or Scikit-learn**.
+This project implements **Ridge Regression (L2 Regularization)** using **Gradient Descent**, built purely in Python.
 
 ---
 
